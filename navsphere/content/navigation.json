@@ -40,6 +40,14 @@
           "description": "",
           "icon": "/assets/favicon_1761913061001.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1761913181716_kmt9273ok",
+          "title": "Nekretnine",
+          "href": "https://www.nekretnine.rs/",
+          "description": "",
+          "icon": "/assets/favicon_1761913162827.png",
+          "enabled": true
         }
       ],
       "subCategories": []
