@@ -32,6 +32,14 @@
           "description": "塞尔维亚最大的买房网站",
           "icon": "/assets/favicon_1761906499239.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1761913108112_cbxcikjdr",
+          "title": "Halooglasi",
+          "href": "https://www.halooglasi.com/nekretnine",
+          "description": "",
+          "icon": "/assets/favicon_1761913061001.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
