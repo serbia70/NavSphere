@@ -108,6 +108,14 @@
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1761905485995_3zerbyfcq",
+          "title": "首页",
+          "href": "https://serbia70.com/",
+          "description": "分享移民生活🎈",
+          "icon": "/assets/favicon_1761905477895.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
