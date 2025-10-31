@@ -56,6 +56,14 @@
           "description": "",
           "icon": "/assets/favicon_1761913211810.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1761915015292_4fuodd5xc",
+          "title": "塞尔维亚买房之如何检查房子的合法性",
+          "href": "https://serbia70.com/posts/fangzihefa/",
+          "description": "教大家如何检查塞尔维亚房子的合法性",
+          "icon": "/assets/favicon_1761915009058.png",
+          "enabled": true
         }
       ],
       "subCategories": []
