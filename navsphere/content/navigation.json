@@ -373,6 +373,15 @@
           "items": []
         }
       ]
+    },
+    {
+      "id": "1761906404052",
+      "title": "银行",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
