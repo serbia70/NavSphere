@@ -64,6 +64,14 @@
           "description": "教大家如何检查塞尔维亚房子的合法性",
           "icon": "/assets/favicon_1761915009058.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761915077116_igojt1wen",
+          "title": "Mpravde",
+          "href": "https://www.mpravde.gov.rs/registar.php?id=6659",
+          "description": "公证处名单大全",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.mpravde.gov.rs",
+          "enabled": true
         }
       ],
       "subCategories": []
