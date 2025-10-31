@@ -24,7 +24,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1761906551083_xyhcd20p2",
+          "title": "4zida",
+          "href": "https://www.4zida.rs/",
+          "description": "塞尔维亚最大的买房网站",
+          "icon": "/assets/favicon_1761906499239.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
