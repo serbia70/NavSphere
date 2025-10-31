@@ -324,7 +324,7 @@
     },
     {
       "id": "8",
-      "title": "素材资源",
+      "title": "网络通信",
       "icon": "linecons-thumbs-up",
       "items": [],
       "subCategories": [
@@ -352,7 +352,9 @@
           "description": "",
           "items": []
         }
-      ]
+      ],
+      "description": "",
+      "enabled": true
     },
     {
       "id": "1760512235168",
