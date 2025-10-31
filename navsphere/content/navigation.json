@@ -19,6 +19,24 @@
       "enabled": true
     },
     {
+      "id": "1761724945457",
+      "title": "买房租房",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1761906551083_xyhcd20p2",
+          "title": "4zida",
+          "href": "https://www.4zida.rs/",
+          "description": "塞尔维亚最大的买房网站",
+          "icon": "/assets/favicon_1761906499239.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "超市和会员卡",
       "icon": "Brain",
@@ -67,24 +85,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1761724945457",
-      "title": "买房租房",
-      "icon": "Home",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1761906551083_xyhcd20p2",
-          "title": "4zida",
-          "href": "https://www.4zida.rs/",
-          "description": "塞尔维亚最大的买房网站",
-          "icon": "/assets/favicon_1761906499239.ico",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     },
     {
       "id": "1735265493940",
