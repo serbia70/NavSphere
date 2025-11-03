@@ -88,7 +88,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1762166732314_dmxe9s5cf",
+              "title": "Maxi Online",
+              "href": "https://www.maxi.rs",
+              "description": "在市中心位置的连锁超市Maxi",
+              "icon": "/assets/favicon_1762166682330.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
